@@ -12,9 +12,9 @@ export default {
         
       },
       colors: {
-        primary: '#0059b3',
-        secondary: '#34A853',
-        button: '#FFA500',
+        primary: '#A4152D',
+        secondary: '#6E6969',
+        button: '#e42313',
       }
     },
   },
