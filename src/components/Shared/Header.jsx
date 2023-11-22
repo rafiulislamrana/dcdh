@@ -56,7 +56,7 @@ const Header = () => {
 
                 <div className="flex-1">
                     <div className="flex justify-end ">
-                        <div className="bg-[#f6f6f6] w-1/3 flex justify-evenly h-8 items-center rounded-bl-full pl-3 ">
+                        <div className="bg-[#f6f6f6] max-w-fit flex justify-evenly gap-6 px-6 h-8 items-center rounded-bl-full">
                             <Link className="font-primary text-sm text-[#6e6e6e]">About</Link>
                             <Link className="font-primary text-sm text-[#6e6e6e]">Careers</Link>
                             <Link className="font-primary text-sm text-[#6e6e6e]">News and stories</Link>
